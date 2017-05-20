@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/KotlinSeleniumTest.iml" filepath="$PROJECT_DIR$/.idea/KotlinSeleniumTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinSeleniumTest_main.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinSeleniumTest_main.iml" group="KotlinSeleniumTest" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinSeleniumTest_test.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinSeleniumTest_test.iml" group="KotlinSeleniumTest" />
+    </modules>
+  </component>
+</project>
